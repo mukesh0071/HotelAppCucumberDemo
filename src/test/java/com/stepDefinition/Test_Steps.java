@@ -87,6 +87,8 @@ public class Test_Steps {
 		String expectedTitle = "Adactin.com - Select Hotel";
 		String actualTitle = driver.getTitle();
 		assertEquals(expectedTitle,actualTitle);
+					System.out.println("List of Hotels");
+
 	}
 	
 
