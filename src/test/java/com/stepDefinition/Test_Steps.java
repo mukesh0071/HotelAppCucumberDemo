@@ -42,6 +42,7 @@ public class Test_Steps {
 //	       uname.clear();
 //	       uname.sendKeys("vasuvespag");
 		lgnPg.enterUsername("vasuvespag");
+		System.out.println("User enters username");
 
 	}
 
